@@ -1,0 +1,1 @@
+- 🌱 I’m a full stack developer, currently I have quit my job and am learning cryptography. (Ethereum blockchain, solidity, rush, substrate..)
